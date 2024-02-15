@@ -18,7 +18,7 @@ Currently, my projects uses Terraform and Packer to deploy and manage infrastruc
 	4. Serverless API Solution for DynamoDB
 	
 - Three-tier web application created using EC2 AMIs, ALB, ASG, VPC, VPC Endpoints, S3 and Aurora RDS DB
-	- [Hosted on GitLab for CI/CD](https://gitlab.com/clouds6593105/clouds-public/AWS-three-tier-web-app](https://gitlab.com/clouds6593105/clouds-public/AWS-three-tier-web-app)
+	- [Hosted on GitLab for CI/CD](https://gitlab.com/clouds6593105/clouds-public/AWS-three-tier-web-app)
 
 ---
 ### Credentials
